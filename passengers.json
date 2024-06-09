@@ -1,0 +1,150 @@
+[
+    {
+        "passenger_id": 1,
+        "first_name": "Peter",
+        "last_name": "Green",
+        "gender": "male",
+        "age": 30,
+        "survived": true,
+        "SibSp": 2,
+        "ParCh": 1,
+        "family_size": 3,
+        "embarking_port": "S",
+        "Address": {
+          "street": "45 Cold Street",
+          "postal_code": "20452",
+          "town": "Bree",
+          "country_name": "United Kingdom",
+          "state_name": "England"
+        },
+        "Pclass": {
+          "pClass": 1,
+          "description": "First class"
+        },
+        "Tickets": [
+          {
+            "ticket_id": 101,
+            "ticket_code": "IOP563",
+            "boarding_port": "Southampton",
+            "destination_port": "New York",
+            "ticket_count": 1,
+            "fare": 150.0,
+            "port_name": "Southampton Port",
+            "purchase_date": "1912-04-10"
+          }
+        ],
+        "Cabin": {
+          "cabin_id": 1,
+          "cabin_name": "A1",
+          "cabin_number": 101,
+          "deck": "A"
+        },
+        "Lifeboats": [
+          {
+            "lifeboat_id": 1,
+            "capacity": 40,
+            "launchTime": "1912-04-15",
+            "survivorsCount": 30
+          }
+        ]
+      },
+      {
+        "passenger_id": 2,
+        "first_name": "Diana",
+        "last_name": "Jones",
+        "gender": "female",
+        "age": 25,
+        "survived": false,
+        "SibSp": 1,
+        "ParCh": 0,
+        "family_size": 1,
+        "embarking_port": "C",
+        "Address": {
+          "street": "456 Oak Street",
+          "postal_code": "67890",
+          "town": "Paris",
+          "country_name": "France",
+          "state_name": "Paris"
+        },
+        "Pclass": {
+          "pClass": 2,
+          "description": "Second class"
+        },
+        "Tickets": [
+          {
+            "ticket_id": 102,
+            "ticket_code": "DEF456",
+            "boarding_port": "Cherbourg",
+            "destination_port": "New York",
+            "ticket_count": 2,
+            "fare": 100.0,
+            "port_name": "Cherbourg Port",
+            "purchase_date": "1912-04-10"
+          }
+        ],
+        "Cabin": {
+          "cabin_id": 2,
+          "cabin_name": "B2",
+          "cabin_number": 202,
+          "deck": "B"
+        },
+        "Lifeboats": [
+          {
+            "lifeboat_id": 2,
+            "capacity": 40,
+            "launchTime": "1912-04-15",
+            "survivorsCount": 20
+          }
+        ]
+      },
+      {
+        "passenger_id": 3,
+        "first_name": "John",
+        "last_name": "Peters",
+        "gender": "male",
+        "age": 40,
+        "survived": false,
+        "SibSp": 0,
+        "ParCh": 2,
+        "family_size": 2,
+        "embarking_port": "Q",
+        "Address": {
+          "street": "789 Pine Street",
+          "postal_code": "54321",
+          "town": "Dublin",
+          "country_name": "Ireland",
+          "state_name": "Dublin"
+        },
+        "Pclass": {
+          "pClass": 3,
+          "description": "Third class"
+        },
+        "Tickets": [
+          {
+            "ticket_id": 103,
+            "ticket_code": "GHI789",
+            "boarding_port": "Queenstown",
+            "destination_port": "New York",
+            "ticket_count": 3,
+            "fare": 50.0,
+            "port_name": "Queenstown Port",
+            "purchase_date": "1912-04-10"
+          }
+        ],
+        "Cabin": {
+          "cabin_id": 3,
+          "cabin_name": "C3",
+          "cabin_number": 303,
+          "deck": "C"
+        },
+        "Lifeboats": [
+          {
+            "lifeboat_id": 3,
+            "capacity": 40,
+            "launchTime": "1912-04-15",
+            "survivorsCount": 35
+          }
+        ]
+    }
+]
+  

@@ -1,0 +1,26 @@
+[
+    {
+      "crew_id": 1,
+      "cabin_id": 1,
+      "lifeboat_id": 2,
+      "first_name": "Peter",
+      "last_name": "Andrews",
+      "role": "Waiter"
+    },
+    {
+      "crew_id": 2,
+      "cabin_id": 2,
+      "lifeboat_id": 1,
+      "first_name": "Eric",
+      "last_name": "Cook",
+      "role": "Captain"
+    },
+    {
+      "crew_id": 3,
+      "cabin_id": 3,
+      "lifeboat_id": 3,
+      "first_name": "Hellen",
+      "last_name": "Wilde",
+      "role": "Waitress"
+    }
+]
